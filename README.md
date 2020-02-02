@@ -25,6 +25,8 @@ BITE ET IL CONNAIT TOUS WTF.
 
 Bon coder bien et si vous avez la scoliose c'est que vous étes sur la bonne voie du developpeur.
 
+Si vous voulez des explications sur le git et que vous utilisé le shell voici un lien pour  vous aider : 
+					httpss://youtu.be/yXT1EIMEkW8
 PS : Bien sur y a des fautes d'ortographe les pédés donc dites le oim comme sa je m'amméliorre.
 
 (Dites caca à haute voix aussi si vous avez lu jusqu'a la fin hihi)
